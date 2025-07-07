@@ -1,0 +1,518 @@
+[
+  {
+    "name": "Numpy",
+    "install": "python -m pip install numpy"
+  },
+  {
+    "name": "Pandas",
+    "install": "python -m pip install pandas"
+  },
+  {
+    "name": "Scipy",
+    "install": "python -m pip install scipy"
+  },
+  {
+    "name": "Statsmodels",
+    "install": "python -m pip install statsmodels"
+  },
+  {
+    "name": "Matplotlib",
+    "install": "python -m pip install matplotlib"
+  },
+  {
+    "name": "Seaborn",
+    "install": "python -m pip install seaborn"
+  },
+  {
+    "name": "Plotly",
+    "install": "python -m pip install plotly"
+  },
+  {
+    "name": "Bokeh",
+    "install": "python -m pip install bokeh"
+  },
+  {
+    "name": "Pandas Profiling",
+    "install": "python -m pip install pandas-profiling"
+  },
+  {
+    "name": "Sweetviz",
+    "install": "python -m pip install sweetviz"
+  },
+  {
+    "name": "Openpyxl",
+    "install": "python -m pip install openpyxl"
+  },
+  {
+    "name": "Xlrd",
+    "install": "python -m pip install xlrd"
+  },
+  {
+    "name": "Xlsxwriter",
+    "install": "python -m pip install xlsxwriter"
+  },
+  {
+    "name": "Pyxlsb",
+    "install": "python -m pip install pyxlsb"
+  },
+  {
+    "name": "Scikit Learn",
+    "install": "python -m pip install scikit-learn"
+  },
+  {
+    "name": "Xgboost",
+    "install": "python -m pip install xgboost"
+  },
+  {
+    "name": "Lightgbm",
+    "install": "python -m pip install lightgbm"
+  },
+  {
+    "name": "Catboost",
+    "install": "python -m pip install catboost"
+  },
+  {
+    "name": "Tensorflow",
+    "install": "python -m pip install tensorflow"
+  },
+  {
+    "name": "Keras",
+    "install": "python -m pip install keras"
+  },
+  {
+    "name": "Torch",
+    "install": "python -m pip install torch"
+  },
+  {
+    "name": "Torchvision",
+    "install": "python -m pip install torchvision"
+  },
+  {
+    "name": "Torchaudio",
+    "install": "python -m pip install torchaudio"
+  },
+  {
+    "name": "Fastai",
+    "install": "python -m pip install fastai"
+  },
+  {
+    "name": "Transformers",
+    "install": "python -m pip install transformers"
+  },
+  {
+    "name": "Sentence Transformers",
+    "install": "python -m pip install sentence-transformers"
+  },
+  {
+    "name": "Tflite Runtime",
+    "install": "python -m pip install tflite-runtime"
+  },
+  {
+    "name": "Nltk",
+    "install": "python -m pip install nltk"
+  },
+  {
+    "name": "Spacy",
+    "install": "python -m pip install spacy"
+  },
+  {
+    "name": "Gensim",
+    "install": "python -m pip install gensim"
+  },
+  {
+    "name": "Textblob",
+    "install": "python -m pip install textblob"
+  },
+  {
+    "name": "Summa",
+    "install": "python -m pip install summa"
+  },
+  {
+    "name": "Newspaper3K",
+    "install": "python -m pip install newspaper3k"
+  },
+  {
+    "name": "Langdetect",
+    "install": "python -m pip install langdetect"
+  },
+  {
+    "name": "Polyglot",
+    "install": "python -m pip install polyglot"
+  },
+  {
+    "name": "Opencv Python",
+    "install": "python -m pip install opencv-python"
+  },
+  {
+    "name": "Opencv Contrib Python",
+    "install": "python -m pip install opencv-contrib-python"
+  },
+  {
+    "name": "Detectron2",
+    "install": "python -m pip install detectron2"
+  },
+  {
+    "name": "Mediapipe",
+    "install": "python -m pip install mediapipe"
+  },
+  {
+    "name": "Imageio",
+    "install": "python -m pip install imageio"
+  },
+  {
+    "name": "Pillow",
+    "install": "python -m pip install pillow"
+  },
+  {
+    "name": "Albumentations",
+    "install": "python -m pip install albumentations"
+  },
+  {
+    "name": "Facenet Pytorch",
+    "install": "python -m pip install facenet-pytorch"
+  },
+  {
+    "name": "Flask",
+    "install": "python -m pip install flask"
+  },
+  {
+    "name": "Flask Cors",
+    "install": "python -m pip install flask-cors"
+  },
+  {
+    "name": "Django",
+    "install": "python -m pip install django"
+  },
+  {
+    "name": "Fastapi",
+    "install": "python -m pip install fastapi"
+  },
+  {
+    "name": "Starlette",
+    "install": "python -m pip install starlette"
+  },
+  {
+    "name": "Uvicorn",
+    "install": "python -m pip install uvicorn"
+  },
+  {
+    "name": "Gunicorn",
+    "install": "python -m pip install gunicorn"
+  },
+  {
+    "name": "Aiohttp",
+    "install": "python -m pip install aiohttp"
+  },
+  {
+    "name": "Sanic",
+    "install": "python -m pip install sanic"
+  },
+  {
+    "name": "Requests",
+    "install": "python -m pip install requests"
+  },
+  {
+    "name": "Httpx",
+    "install": "python -m pip install httpx"
+  },
+  {
+    "name": "Urllib3",
+    "install": "python -m pip install urllib3"
+  },
+  {
+    "name": "Grequests",
+    "install": "python -m pip install grequests"
+  },
+  {
+    "name": "Websockets",
+    "install": "python -m pip install websockets"
+  },
+  {
+    "name": "Sqlalchemy",
+    "install": "python -m pip install sqlalchemy"
+  },
+  {
+    "name": "Psycopg2 Binary",
+    "install": "python -m pip install psycopg2-binary"
+  },
+  {
+    "name": "Mysql Connector Python",
+    "install": "python -m pip install mysql-connector-python"
+  },
+  {
+    "name": "Pymysql",
+    "install": "python -m pip install pymysql"
+  },
+  {
+    "name": "Pymongo",
+    "install": "python -m pip install pymongo"
+  },
+  {
+    "name": "Redis",
+    "install": "python -m pip install redis"
+  },
+  {
+    "name": "Tinydb",
+    "install": "python -m pip install tinydb"
+  },
+  {
+    "name": "Cassandra Driver",
+    "install": "python -m pip install cassandra-driver"
+  },
+  {
+    "name": "Virtualenv",
+    "install": "python -m pip install virtualenv"
+  },
+  {
+    "name": "Pipenv",
+    "install": "python -m pip install pipenv"
+  },
+  {
+    "name": "Poetry",
+    "install": "python -m pip install poetry"
+  },
+  {
+    "name": "Pyinstaller",
+    "install": "python -m pip install pyinstaller"
+  },
+  {
+    "name": "Auto Py To Exe",
+    "install": "python -m pip install auto-py-to-exe"
+  },
+  {
+    "name": "Typer",
+    "install": "python -m pip install typer"
+  },
+  {
+    "name": "Rich",
+    "install": "python -m pip install rich"
+  },
+  {
+    "name": "Tqdm",
+    "install": "python -m pip install tqdm"
+  },
+  {
+    "name": "Colorama",
+    "install": "python -m pip install colorama"
+  },
+  {
+    "name": "Logging",
+    "install": "python -m pip install logging"
+  },
+  {
+    "name": "Python Dotenv",
+    "install": "python -m pip install python-dotenv"
+  },
+  {
+    "name": "Schedule",
+    "install": "python -m pip install schedule"
+  },
+  {
+    "name": "Pytest",
+    "install": "python -m pip install pytest"
+  },
+  {
+    "name": "Unittest",
+    "install": "python -m pip install unittest"
+  },
+  {
+    "name": "Coverage",
+    "install": "python -m pip install coverage"
+  },
+  {
+    "name": "Tox",
+    "install": "python -m pip install tox"
+  },
+  {
+    "name": "Black",
+    "install": "python -m pip install black"
+  },
+  {
+    "name": "Flake8",
+    "install": "python -m pip install flake8"
+  },
+  {
+    "name": "Isort",
+    "install": "python -m pip install isort"
+  },
+  {
+    "name": "Mypy",
+    "install": "python -m pip install mypy"
+  },
+  {
+    "name": "Jupyter",
+    "install": "python -m pip install jupyter"
+  },
+  {
+    "name": "Notebook",
+    "install": "python -m pip install notebook"
+  },
+  {
+    "name": "Jupyterlab",
+    "install": "python -m pip install jupyterlab"
+  },
+  {
+    "name": "Ipywidgets",
+    "install": "python -m pip install ipywidgets"
+  },
+  {
+    "name": "Voila",
+    "install": "python -m pip install voila"
+  },
+  {
+    "name": "Pygame",
+    "install": "python -m pip install pygame"
+  },
+  {
+    "name": "Pyqt5",
+    "install": "python -m pip install pyqt5"
+  },
+  {
+    "name": "Pyqt6",
+    "install": "python -m pip install pyqt6"
+  },
+  {
+    "name": "Kivy",
+    "install": "python -m pip install kivy"
+  },
+  {
+    "name": "Dearpygui",
+    "install": "python -m pip install dearpygui"
+  },
+  {
+    "name": "Tkintertable",
+    "install": "python -m pip install tkintertable"
+  },
+  {
+    "name": "Eel",
+    "install": "python -m pip install eel"
+  },
+  {
+    "name": "Cryptography",
+    "install": "python -m pip install cryptography"
+  },
+  {
+    "name": "Pyjwt",
+    "install": "python -m pip install pyjwt"
+  },
+  {
+    "name": "Passlib",
+    "install": "python -m pip install passlib"
+  },
+  {
+    "name": "Bcrypt",
+    "install": "python -m pip install bcrypt"
+  },
+  {
+    "name": "Hashlib",
+    "install": "python -m pip install hashlib"
+  },
+  {
+    "name": "Requests Oauthlib",
+    "install": "python -m pip install requests-oauthlib"
+  },
+  {
+    "name": "Scikit Image",
+    "install": "python -m pip install scikit-image"
+  },
+  {
+    "name": "Wand",
+    "install": "python -m pip install wand"
+  },
+  {
+    "name": "Beautifulsoup4",
+    "install": "python -m pip install beautifulsoup4"
+  },
+  {
+    "name": "Lxml",
+    "install": "python -m pip install lxml"
+  },
+  {
+    "name": "Scrapy",
+    "install": "python -m pip install scrapy"
+  },
+  {
+    "name": "Selenium",
+    "install": "python -m pip install selenium"
+  },
+  {
+    "name": "Requests Html",
+    "install": "python -m pip install requests-html"
+  },
+  {
+    "name": "Mechanicalsoup",
+    "install": "python -m pip install mechanicalsoup"
+  },
+  {
+    "name": "Undetected Chromedriver",
+    "install": "python -m pip install undetected-chromedriver"
+  },
+  {
+    "name": "Build",
+    "install": "python -m pip install build"
+  },
+  {
+    "name": "Twine",
+    "install": "python -m pip install twine"
+  },
+  {
+    "name": "Setuptools",
+    "install": "python -m pip install setuptools"
+  },
+  {
+    "name": "Wheel",
+    "install": "python -m pip install wheel"
+  },
+  {
+    "name": "Dash",
+    "install": "python -m pip install dash"
+  },
+  {
+    "name": "Streamlit",
+    "install": "python -m pip install streamlit"
+  },
+  {
+    "name": "Panel",
+    "install": "python -m pip install panel"
+  },
+  {
+    "name": "Altair",
+    "install": "python -m pip install altair"
+  },
+  {
+    "name": "Holoviews",
+    "install": "python -m pip install holoviews"
+  },
+  {
+    "name": "Speechrecognition",
+    "install": "python -m pip install speechrecognition"
+  },
+  {
+    "name": "Pyttsx3",
+    "install": "python -m pip install pyttsx3"
+  },
+  {
+    "name": "Pocketsphinx",
+    "install": "python -m pip install pocketsphinx"
+  },
+  {
+    "name": "Vosk",
+    "install": "python -m pip install vosk"
+  },
+  {
+    "name": "Py7Zr",
+    "install": "python -m pip install py7zr"
+  },
+  {
+    "name": "Rarfile",
+    "install": "python -m pip install rarfile"
+  },
+  {
+    "name": "Zipfile36",
+    "install": "python -m pip install zipfile36"
+  },
+  {
+    "name": "Tarfile",
+    "install": "python -m pip install tarfile"
+  }
+]
