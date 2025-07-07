@@ -76,3 +76,7 @@ Perfect for:
 * IT teams preparing Python-ready environments
 
 ---
+
+### Author : Waleed Manea
+### Please Feel Free to contact me or leave a feedback comments
+Thank you all
