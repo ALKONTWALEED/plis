@@ -12,6 +12,8 @@
 **PLIS** (Python Library Install Assistant) is a modern, beginner-friendly tool that simplifies the installation of Python libraries. It automatically checks if Python and `pip` are installed on the system, and if not, it can install them silently in the background. The program provides a smooth GUI with clear progress indicators, real-time status for each library, and fully offline support after initial setup.
 
 ---
+![Preview](preview.png)
+---
 
 ### ✅ Key Features
 
