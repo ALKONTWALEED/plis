@@ -1,4 +1,3 @@
-أكيد وليد، هذا هو **الوصف الكامل باللغة الإنجليزية**، جاهز ترفعه على GitHub كـ `README.md` أو تنشره بأي مكان:
 
 ---
 
@@ -77,5 +76,3 @@ Perfect for:
 * IT teams preparing Python-ready environments
 
 ---
-
-Would you like me to prepare a full `README.md` file for your repository with formatting, license suggestion, and GitHub tags (`topics`, `release`, etc.)?
